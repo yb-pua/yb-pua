@@ -14,8 +14,8 @@
 
 ### 开源项目
 - [企业园区安全技术研究](https://github.com/yb-pua/netsafe/tree/9dcb902b3033ecfdb9040d28cd2cfec912375db3/%E9%A1%B9%E7%9B%AE/%E5%8D%8E%E4%B8%BA%E8%AE%BE%E5%A4%87)
-- [人工智能相关研究]([https://github.com/JoeyBling/hexo-theme-yilia-plus](https://github.com/yb-pua/AI))
-- [JAVA二次开发及图表制作]([https://github.com/JoeyBling/yilia-plus-demo](https://github.com/yb-pua/java-alittle))
+- [人工智能相关研究](https://github.com/yb-pua/AI))
+- [JAVA二次开发及图表制作](https://github.com/yb-pua/java-alittle)
 还在整理上传
 ---
 ### 联系我
