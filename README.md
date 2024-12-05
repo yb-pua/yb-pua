@@ -1,5 +1,8 @@
 #### Hi, I'm BO YUAN, a Developer 🚀 from XI'AN CHINA. 
-
+### 最近干的事情
+---
+数值分析、工程最优化、现代密码学、科技英语翻译复习中
+区块链项目完善ing。。。
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
