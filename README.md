@@ -33,10 +33,7 @@
 | [bigpapercode-v7](https://github.com/yb-pua/bigpapercode-v7) | 身份认证研究的实验代码与数据整理 | Python |
 | [xupt-bigpaper-md](https://github.com/yb-pua/xupt-bigpaper-md) | 论文研究思路与实验笔记 | Jupyter Notebook |
 | [blueteam-agent-test](https://github.com/yb-pua/blueteam-agent-test) | IoCLens 蓝队智能体方向的验证与探索 | Python |
-| [GodzillaSuper-beifen](https://github.com/yb-pua/GodzillaSuper-beifen) | WebShell 管理工具扩展实验，仅用于合法授权安全研究 | Java · Fork |
-| [CyberStrikeAI-beifen](https://github.com/yb-pua/CyberStrikeAI-beifen) | AI 原生网络安全自动化项目的学习分支 | Go · Fork |
-| [ImHex](https://github.com/yb-pua/ImHex) | 面向逆向分析的十六进制编辑器学习分支 | C++ · Fork |
-| [magic-resume](https://github.com/yb-pua/magic-resume) | 简历生成工具的参考与体验分支 | TypeScript · Fork |
+
 
 > 所有安全相关内容仅用于合法授权环境、科研学习与防御能力建设。
 
